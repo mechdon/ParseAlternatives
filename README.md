@@ -1,4 +1,4 @@
-# Parse.com alternatives
+# Parse Alternatives
 
 As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will be fully retired after a year-long period ending on January 28, 2017. Most of us need to find an alternative backend service for our apps. Please help the community to find a great BaaS. Contribution guidelines can be found [here](CONTRIBUTING.md).
 
@@ -40,6 +40,9 @@ A backend as a service that provides an API to both store and sync data in realt
 - **[Helios](http://helios.io)**
 An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
 
+- **[IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/)** :zap:
+IBM Bluemix provides access to various APIs and services across mobile(including push notifications), IoT and Watson (for building cognitive apps).
+
 - **[Kii](https://en.kii.com/platform)**
 With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
 
@@ -51,9 +54,6 @@ The Kumulos platform started life back in 2010 as a mBaaS. It was built to make 
 
 - **[Kuzzle](http://kuzzle.io)** :zap:
 Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
-
-- **[PubNub](https://www.pubnub.com/)** :zap:
-PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
